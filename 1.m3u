@@ -1,7 +1,7 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="https://i-h1.pinimg.com/564x/8e/56/cd/8e56cdba9e19abf173ff387ae15ecce0.jpg" group-title="KNOWLEDGE", History
-http://indon.dnsq.us:9981/stream/channelid/855888891?ticket=A9C4D071873E66DF9A59C7F5C6B92C6F3592978A&profile=pass
+http://indon.dnsq.us:9981/stream/channelid/855888891?ticket=A9C4D071873E66DF9A59C7F5C6B92C6F3592978A&profile=pass 
+ 
  
 #EXTINF:-1 tvg-logo="https://cdn-production-thumbor-vidio.akamaized.net/wTm62e9G1jgoaj3KTkOGnwLVOIs=/112x112/filters:quality(90):strip_icc()/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/733/709546.png" tvg-id="RIYAN.e490321c865d3c9f18ddb5a0cdee3e79.SHINTA" tvg-name" TRANS TV" group-title="Nasional", TRANS TV
 http://hi.hi-back.masuk.web.id/c.m3u8?shinta=GoodBye&coday=ffd67d44870fda644560c47682a87a73&cdy=d645920e395fedad7bbbed0eca3fe2e00fb3069a97a8fb9df1d75e6456ecef11
@@ -489,11 +489,11 @@ http://50.7.161.82:8278/streams/d/Xiaotaiyang/playlist.m3u8
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6839
 #EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/baa5a46acbd1f2a395ce4.png",Astro AEC 
 http://185.180.221.194:8278/streams/d/Aec/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png",Astro Shuang Xing ??? 
+#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/fbbe10b7738a25d749976.png",Astro Shuang Xing 双星台 
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png",Astro Quan Jia ?? 
+#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/b46b917ba32a0abb9f227.png",Astro Quan Jia 全佳 
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg",Astro ??? [TVB Jade]
+#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/92525a08e0280d4791558.jpg",Astro 华丽台 [TVB Jade]
 http://50.7.161.82:8278/streams/d/Wlt/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/7b8552216f731395d5165.png",Astro AOD 
 http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
@@ -505,7 +505,7 @@ http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/320683
 http://qqtv.nl:8080/OrangeaAndApple/$eK7pYrSG5Cfffxxxxyz/319319
 #EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/aaad88bee4d7c2b20edd8.png",TVBS Asia HD 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6843
-#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/870793532bc0a89fdb389.jpg",Astro Hua Hee Dai ??? 
+#EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/870793532bc0a89fdb389.jpg",Astro Hua Hee Dai 欢喜台 
 http://50.7.161.82:8278/streams/d/Huahee/playlist.m3u8
 #EXTINF:-1, group-title="ASTRO TV" tvg-logo="https://telegra.ph/file/cbe6901e74eb701ccfa16.jpg",CCTV4 HD 
 http://iptv.tvmalaysia.cc:80/penang172/penang172/6759
@@ -660,7 +660,7 @@ https://www.googleapis.com/drive/v3/files/1GCWSXe0qK8r_nKkZVCDmWMLuqEEshHXw?alt=
 https://s2.acefile.co/V3/files/eab72827535189d95024cd0d83949c22.mp4
 #EXTINF:-1 group-title="VOD_Barat",Battle in Space The Armada Attacks
 https://www.googleapis.com/drive/v3/files/18h65n402-l4rAMDBdmhM67-dCyvoQkus?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD_Barat",One Night in Miami�
+#EXTINF:-1 group-title="VOD_Barat",One Night in Miami…
 https://www.googleapis.com/drive/v3/files/1Alj4qmV0PIvEudEnl9wVXHiaqF0L5CMK?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD_Barat",Outside the Wire
 https://pixeldrain.com/api/file/uMeURFRi
@@ -953,7 +953,7 @@ https://www.googleapis.com/drive/v3/files/1SEEIxLoFvqgb3yZjFY2C6gAuEKZJ6oSl?alt=
 https://www.googleapis.com/drive/v3/files/1g0kNQMtFaKSdVeqC8mlspvhD6R1darWW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Asia",Seobok
 https://www.googleapis.com/drive/v3/files/1wIF9xz2MYf54yig9HKcLc39dVVdIbE_8?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Asia",A Writer�s Odyssey
+#EXTINF:-1 group-title="VOD Asia",A Writer’s Odyssey
 https://www.googleapis.com/drive/v3/files/1yxDFvhu1x677obgehOoCNJJLA16p7SRa?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Asia",Fake Bodyguard
 https://www.googleapis.com/drive/v3/files/1RgjIVPpsOyJRwLyqXt307CRQYVCC5Crl?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -973,7 +973,7 @@ https://www.googleapis.com/drive/v3/files/12BQSstzEL2NrawWKWQmHrmTWMIlxba60?alt=
 https://www.googleapis.com/drive/v3/files/13a4Plsxe_0gW3L4TZdEGDVqNJavF8x89?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Barat",Voyagers
 https://www.googleapis.com/drive/v3/files/1YLA-HHtbQ9jHXobdJzUJVOjbCSeb2WwL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Tom Clancy�s Without Remorse
+#EXTINF:-1 group-title="VOD Barat",Tom Clancy’s Without Remorse
 https://www.googleapis.com/drive/v3/files/1SKo9ctTEV9LAhl_aYGu-_7jhTHckhi98?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Barat",The Virtuoso
 https://www.googleapis.com/drive/v3/files/1ZKR-wUwyml9y0tm0KtFHRYZX4FRCAeb4?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1025,7 +1025,7 @@ https://www.googleapis.com/drive/v3/files/1r8NvmZHoH74A6CIxB8SRYILND1IfA1Fz?alt=
 https://www.googleapis.com/drive/v3/files/1P-_zpevwmxNXbjRRJ2fKumngs80pA3dH?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Barat",The Toll
 https://www.googleapis.com/drive/v3/files/12K8e4O0SOQRQRmPrf1wjMNfbN7QNvYnO?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Barat",Zack Snyder�s Justice League
+#EXTINF:-1 group-title="VOD Barat",Zack Snyder’s Justice League
 https://www.googleapis.com/drive/v3/files/1arI3Hdje3V5-HYmPImRjgfx7k9KWDboR?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Barat",Get the Goat
 https://www.googleapis.com/drive/v3/files/1_NXqbqR7VD_XjVjmrtOEacRKfjDDTFtA?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1052,7 +1052,7 @@ https://r2---sn-2uuxa3vh-jb3y.googlevideo.com/videoplayback?expire=1619350524&ei
 
 #EXTINF:-1 group-title="VOD Animasi",Justice Society: World War II
 https://www.googleapis.com/drive/v3/files/1sCSgXcMkFnovBsFJqcNP2JbfY31Ob9U7?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Felix and the Treasure of Morg�a
+#EXTINF:-1 group-title="VOD Animasi",Felix and the Treasure of Morgäa
 https://www.googleapis.com/drive/v3/files/1HXkmInjaHM7wWgUxibr7uH9izG0QRlUY?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi",Arlo the Alligator Boy
 https://www.googleapis.com/drive/v3/files/1W0aXB6OIHmvriCvSnPVR8FUrDHJ8jzka?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
@@ -1072,9 +1072,9 @@ https://www.googleapis.com/drive/v3/files/1zV8ICeMKI356Hh2kqtxgnu2nupfIt20N?alt=
 https://www.googleapis.com/drive/v3/files/1z0XtwS7NspTyuOyW-7b7fxY3BhruU6-A?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi",Stand by Me Doraemon 2
 https://www.googleapis.com/drive/v3/files/1DOSnz_3uLITcT8n16bOFpcVMkHr-eWKW?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Fate/stay night: Heaven�s Feel III. Spring Song
+#EXTINF:-1 group-title="VOD Animasi",Fate/stay night: Heaven’s Feel III. Spring Song
 https://www.googleapis.com/drive/v3/files/1ox1KX1QOUyj05o9lIAVuOnaCkIH43V-_?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
 #EXTINF:-1 group-title="VOD Animasi",Trolls World Tour
 https://www.googleapis.com/drive/v3/files/1gVtkzWFnbJBm8-VXTdn7Uh3t2c2uG_b5?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
-#EXTINF:-1 group-title="VOD Animasi",Xico�s Journey
+#EXTINF:-1 group-title="VOD Animasi",Xico’s Journey
 https://www.googleapis.com/drive/v3/files/151NTMJMYkibR3ncX5EQKfTIU3EWSlXRL?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4
